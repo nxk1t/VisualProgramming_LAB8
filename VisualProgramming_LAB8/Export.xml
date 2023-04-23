@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSerializebleElement xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SerializebleElement xsi:type="SerializebleGrid">
+    <ID>6</ID>
+    <TypeGrid>ClassElement</TypeGrid>
+    <StartPoint>231, 221</StartPoint>
+    <GridText>
+      <MainParameters>qqqq</MainParameters>
+      <Attributes>attr1</Attributes>
+      <Operations>op</Operations>
+      <Fonts>
+        <IsMainParametersAbstract>true</IsMainParametersAbstract>
+        <IsMainParametersStatic>false</IsMainParametersStatic>
+        <IsAttributesAbstract>false</IsAttributesAbstract>
+        <IsAttributesStatic>true</IsAttributesStatic>
+        <IsOperationsAbstract>true</IsOperationsAbstract>
+        <IsOperationsStatic>false</IsOperationsStatic>
+      </Fonts>
+    </GridText>
+    <Height>261</Height>
+    <Width>430</Width>
+  </SerializebleElement>
+</ArrayOfSerializebleElement>

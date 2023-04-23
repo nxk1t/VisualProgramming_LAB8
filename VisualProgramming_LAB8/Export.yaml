@@ -1,0 +1,18 @@
+- !grid
+  TypeGrid: ClassElement
+  StartPoint: 231, 221
+  GridText:
+    MainParameters: qqqq
+    Attributes: attr1
+    Operations: op
+    Fonts:
+      IsMainParametersAbstract: true
+      IsMainParametersStatic: false
+      IsAttributesAbstract: false
+      IsAttributesStatic: true
+      IsOperationsAbstract: true
+      IsOperationsStatic: false
+  Height: 261
+  Width: 430
+  ID: 6
+

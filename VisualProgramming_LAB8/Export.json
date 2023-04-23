@@ -1,0 +1,28 @@
+{
+  "$type": "System.Collections.Generic.List`1[[VisualProgramming_LAB8.Models.Serializers.SerializebleElement, VisualProgramming_LAB8]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "VisualProgramming_LAB8.Models.Serializers.SerializebleGrid, VisualProgramming_LAB8",
+      "TypeGrid": "ClassElement",
+      "StartPoint": "231, 221",
+      "GridText": {
+        "$type": "VisualProgramming_LAB8.Models.Grids.GridStrings, VisualProgramming_LAB8",
+        "MainParameters": "qqqq",
+        "Attributes": "attr1",
+        "Operations": "op",
+        "Fonts": {
+          "$type": "VisualProgramming_LAB8.Models.Grids.GridTextFonts, VisualProgramming_LAB8",
+          "IsMainParametersAbstract": true,
+          "IsMainParametersStatic": false,
+          "IsAttributesAbstract": false,
+          "IsAttributesStatic": true,
+          "IsOperationsAbstract": true,
+          "IsOperationsStatic": false
+        }
+      },
+      "Height": 261.0,
+      "Width": 430.0,
+      "ID": 6
+    }
+  ]
+}
